@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SlideshowApp
 //
-//  Created by horiuchi on 2021/11/17.
+//  Created by horiuchi on 2021/12/10.
 //
 
 import UIKit
